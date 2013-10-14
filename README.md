@@ -1,0 +1,4 @@
+parent
+======
+
+git submodule demo
